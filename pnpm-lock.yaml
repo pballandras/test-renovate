@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       dotenv:
-        specifier: 16.4.6
-        version: 16.4.6
+        specifier: 16.4.7
+        version: 16.4.7
       octokit:
         specifier: ~4.0.0
         version: 4.0.2
@@ -133,8 +133,8 @@ packages:
   bottleneck@2.19.5:
     resolution: {integrity: sha512-VHiNCbI1lKdl44tGrhNfU3lup0Tj/ZBMJB5/2ZbNXRCPuRCO7ed2mgcK4r17y+KB2EfuYuRaVlwNbAeaWGSpbw==}
 
-  dotenv@16.4.6:
-    resolution: {integrity: sha512-JhcR/+KIjkkjiU8yEpaB/USlzVi3i5whwOjpIRNGi9svKEXZSe+Qp6IWAjFjv+2GViAoDRCUv/QLNziQxsLqDg==}
+  dotenv@16.4.7:
+    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
     engines: {node: '>=12'}
 
   lru-cache@10.4.3:
@@ -304,7 +304,7 @@ snapshots:
 
   bottleneck@2.19.5: {}
 
-  dotenv@16.4.6: {}
+  dotenv@16.4.7: {}
 
   lru-cache@10.4.3: {}
 
